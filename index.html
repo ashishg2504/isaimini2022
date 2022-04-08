@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="isaimini 2022 Movies Download isaimini Tamil Movies 2022 Download isaimini Mp4 Mobile Movies Free Download isaimini 2022 Movies 720p HD Download" />
+    <meta name="keywords" content="isaimini 2022 Movies Download isaimini Tamil Movies 2022 Download" />
+	<link rel="stylesheet" href="../CSS/isaimini.css"/>
+    <link rel="stylesheet" href="../CSS/carousel.css"/>
+	<link rel="stylesheet" href="../CSS/headerfooter.css">
+	<link rel="import" href="../HTML/aboutus.html">
+	<script src="//code.jquery.com/jquery-1.10.2.js"></script> 
+    <script>  
+        $(function(){ 
+          $("#header").load("../HTML/header.html");  
+          $("#footer").load("./HTML/footer.html");  
+        }); 
+        </script>
+    <title>isaimini 2022 Movies Download isaimini Tamil Movies 2022 Download</title>
+</head>
+<body>
+    <div id="header"></div>
+	<div class="latest-movies">
+		  <p>isaimini 2022 Movies Download isaimini Tamil Movies 2022 Download isaimini Mp4 Mobile Movies Free Download isaimini 2022 Movies 720p HD Download isaimini 1080p HD Movies Download isaimini Movies 2022 Download</p>
+       <h2>Isaimini Latest Movies</h2>
+		<div class="container">
+  <div class="slid-er">
+    <div class="slides" id="slides">
+      <script>
+        fetch("../Assets/latestMovies.json").then(Response=>{
+          return Response.json();
+        }).then(item=>{
+          item.movieDetail.map(item=>{
+            document.querySelector("#slides").innerHTML+=`<div class="slide" title=${item.alt}><div class="slide-content"><a href=${item.redirect} target="_blank"><img src=${item.img} loading="lazy" alt=${item.alt}/><div class="button-container"><span class="latest-movie-title">${item.alt}</span><span class="button">Watch</span></div></a></div></div></div>`
+          })
+        })
+        </script>
+        </div>
+    </div>
+  </div>
+      </div>
+	  <hr>
+	  <div class="download-text">
+		  <button><h2>Isaimini 2022 movies download</h2></button>
+	  </div>
+	  <hr>
+      <div class="category">
+        <h2>Isaimini Movies Category</h2>
+				<div class="category-container">
+				<a href="tamilMovieDownload.html" class="a-none" target="_blank"><div class="category-box">
+					<div class="img">
+						<img src="../Assets/folder.png" alt="folder" />
+					</div>
+					<div class="title">
+						<h3>Tamil Movie Download</h3>
+					</div>
+				</div></a>
+				<a href="isaiminiMovieDownload.html" class="a-none" target="_blank"><div class="category-box">
+					<div class="img">
+						<img src="../Assets/folder.png" alt="folder" />
+					</div>
+					<div class="title">
+						<h3>Isaimini movie download</h3>
+					</div>
+				</div></a>
+				<a href="tamilgunIsaimini.html" class="a-none" target="_blank"><div class="category-box">
+					<div class="img">
+						<img src="../Assets/folder.png" alt="folder" />
+					</div>
+					<div class="title">
+						<h3>Tamilgun isaimini</h3>
+					</div>
+				</div></a>
+				<a href="tamilyogiIsaimini.html" class="a-none" target="_blank"><div class="category-box">
+					<div class="img">
+						<img src="../Assets/folder.png" alt="folder" />
+					</div>
+					<div class="title">
+						<h3>Tamilyogi isaimini</h3>
+					</div>
+				</div></a>
+				<a href="tamilDubbedMovie.html" class="a-none" target="_blank"><div class="category-box">
+					<div class="img">
+						<img src="../Assets/folder.png" alt="folder" />
+					</div>
+					<div class="title">
+						<h3>Tamil Dubbed Movie</h3>
+					</div>
+				</div></a>
+				<p>Download Tamil 2022 Movies in isaimini. isaimini Latest Movies Download isaimini New 2022 Movies Download isaimini HD Tamil Movies Download</p>
+			</div>
+            </div>
+        </div>
+      </div>
+	 <div id="footer"></div>
+	  <script src="../JS/isaimini.js"></script>
+</body>
+</html>
