@@ -62,3 +62,10 @@ body {
 .category-box:hover{
   background-color: #308bcf;
 }
+@media screen and (max-width: 380px){
+  .category .category-box{
+    width: 130px;
+    height: 180px;
+    margin: 0px auto;
+  }
+}
