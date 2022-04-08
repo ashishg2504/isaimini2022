@@ -1,72 +1,72 @@
 {
     "movieDetail": [
         {
-            "redirect": "../Movie/isaiminiMovieDownload.html",
+            "redirect": "isaiminiMovieDownload.html",
             "img": "../Assets/Thumbnails/Beast.jpg",
             "alt": "Beast movie download isaimini"
         },
         {
-            "redirect": "../Movie/isaiminiMovieDownload.html",
+            "redirect": "isaiminiMovieDownload.html",
             "img": "../Assets/Thumbnails/FantasticBeasts.jpg",
             "alt": "Fantastic beasts movie download isaimini"
         },
         {
-            "redirect": "../Movie/isaiminiMovieDownload.html",
+            "redirect": "isaiminiMovieDownload.html",
             "img": "../Assets/Thumbnails/Ghani.jpg",
             "alt": "Ghani movie download isamini"
         },
         {
-            "redirect": "../Movie/isaiminiMovieDownload.html",
+            "redirect": "isaiminiMovieDownload.html",
             "img": "../Assets/Thumbnails/Jersey.jpg",
             "alt": "Jersey movie download isaimini"
         },
         {
-            "redirect": "../Movie/isaiminiMovieDownload.html",
+            "redirect": "isaiminiMovieDownload.html",
             "img": "../Assets/Thumbnails/KaathuvaakulaRendu.jpg",
             "alt": "Kaathuvaakula Rendu Kaadhal  movie download isaimini"
         },
         {
-            "redirect": "../Movie/isaiminiMovieDownload.html",
+            "redirect": "isaiminiMovieDownload.html",
             "img": "../Assets/Thumbnails/KadhalKadhalthan.jpg",
             "alt": "Kadhal Kadhalthan movie download isaimini"
         },
         {
-            "redirect": "../Movie/isaiminiMovieDownload.html",
+            "redirect": "isaiminiMovieDownload.html",
             "img": "../Assets/Thumbnails/kashmirfiles.jpg",
             "alt": "kashmir files movie download isaimini"
         },
         {
-            "redirect": "../Movie/isaiminiMovieDownload.html",
+            "redirect": "isaiminiMovieDownload.html",
             "img": "../Assets/Thumbnails/KGFChapter2.jpg",
             "alt": "KGF Chapter 2 movie download isaimini"
         },
         {
-            "redirect": "../Movie/isaiminiMovieDownload.html",
+            "redirect": "isaiminiMovieDownload.html",
             "img": "../Assets/Thumbnails/ManmathaLeelai.jpg",
             "alt": "Manmatha Leelai movie download isaimini"
         },
         {
-            "redirect": "../Movie/isaiminiMovieDownload.html",
+            "redirect": "isaiminiMovieDownload.html",
             "img": "../Assets/Thumbnails/RRR.jpg",
             "alt": "RRR movie download isaimini"
         },
         {
-            "redirect": "../Movie/isaiminiMovieDownload.html",
+            "redirect": "isaiminiMovieDownload.html",
             "img": "../Assets/Thumbnails/Selfie.jpg",
             "alt": "Selfie movie download isaimini"
         },
         {
-            "redirect": "../Movie/isaiminiMovieDownload.html",
+            "redirect": "isaiminiMovieDownload.html",
             "img": "../Assets/Thumbnails/TheLostCity.jpg",
             "alt": "The Lost City movie download isaimini"
         },
         {
-            "redirect": "../Movie/isaiminiMovieDownload.html",
+            "redirect": "isaiminiMovieDownload.html",
             "img": "../Assets/Thumbnails/Yaanai.jpg",
             "alt": "Yaanai movie download isaimini"
         },
         {
-            "redirect": "../Movie/isaiminiMovieDownload.html",
+            "redirect": "isaiminiMovieDownload.html",
             "img": "../Assets/Thumbnails/YuthaSatham.jpg",
             "alt": "Yutha Satham movie download isaimini"
         }
