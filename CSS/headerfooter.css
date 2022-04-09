@@ -7,9 +7,17 @@
     align-items: center;
     background-color: #308bcf;
 }
+.site-identity{
+  display: flex;
+  align-items: center;
+}
+.brand-logo{
+  width: 100px !important;
+}
 .site-identity h1 {
     font-size: 1.5em;
     display: inline-block;
+    margin-left: -10px;
   }
   .site-navigation ul, 
   .site-navigation li {
